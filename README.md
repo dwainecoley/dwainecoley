@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Dwaine 👋
 
-<!--
-**dwainecoley/dwainecoley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity & GRC | Cloud Engineering | 
 
-Here are some ideas to get you started:
+Junior cybersecurity professional building hands-on experience across GRC, blue team operations, and security fundamentals. Currently pursuing Google Cybersecurity Certificate, CompTIA Security+, and GRC Mastery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔐 Security Audit — Google Cybersecurity Certificate
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [Security Audit – Botium Toys](./security-audit/) | Conducted an internal security audit using NIST CSF. Assessed controls, identified gaps, and produced a compliance checklist. | 🔄 In Progress |
+
+---
+
+## 📚 Training & Certifications
+
+| Course | Provider | Status |
+|--------|----------|--------|
+| Google Cybersecurity Certificate | Google / Coursera | 🔄 In Progress |
+| CompTIA Security+ | Udemy | 🔄 In Progress |
+| GRC Mastery | grcmastery.com | 🔄 In Progress |
+| TryHackMe Pre-Security | TryHackMe | 🔄 In Progress |
+
+---
+
+## 🛠️ Tools & Frameworks
+
+`Wireshark` `Kali Linux` `VirtualBox` `NIST CSF` `ISO 27001` `HTML` `TCP/IP`
+
+---
+
+## 🤳 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/dwainecoley1/) | [Email](mailto:dwainecoley.us@gmail.com)
