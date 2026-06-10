@@ -6,7 +6,7 @@ Junior cybersecurity professional building hands-on experience across GRC, blue 
 
 ---
 
-## 🔐 Security Audit — Google Cybersecurity Certificate
+## 🔐 Security Audit Lab
 
 | Project | Description | Status |
 |---------|-------------|--------|
