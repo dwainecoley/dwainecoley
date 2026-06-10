@@ -10,7 +10,7 @@ Junior cybersecurity professional building hands-on experience across GRC, blue 
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Security Audit – Botium Toys](.projects/botium-toys-audit) | Conducted an internal security audit using NIST CSF. Assessed controls, identified gaps, and produced a compliance checklist. | 🔄 In Progress |
+| [Security Audit – Botium Toys](.github.com/dwainecoley/cybersecurity-portfolio/tree/main/projects/botium-toys-audit) | Conducted an internal security audit using NIST CSF. Assessed controls, identified gaps, and produced a compliance checklist. | 🔄 In Progress |
 
 ---
 
