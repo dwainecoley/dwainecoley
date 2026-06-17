@@ -1,8 +1,8 @@
 # Hey, I'm Dwaine 👋
 
-### Cybersecurity & GRC | Cloud Engineering | 
+### Cybersecurity | GRC | Cloud Security | 
 
-Junior cybersecurity professional building hands-on experience across GRC, blue team operations, and security fundamentals. Currently pursuing Google Cybersecurity Certificate, CompTIA Security+, and GRC Mastery.
+Junior cybersecurity professional building hands-on experience across GRC, blue team operations, and cloud fundamentals. Currently pursuing Google Cybersecurity Certificate, CompTIA Security+, and GRC Mastery.
 
 ---
 
