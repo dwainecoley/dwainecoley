@@ -1,8 +1,8 @@
 # Hey, I'm Dwaine 👋
 
-### Cybersecurity | GRC | Cloud Security | 
+### Cybersecurity | GRC | Cloud Security | Technical
 
-Junior cybersecurity professional building hands-on experience across GRC, blue team operations, and cloud fundamentals. Currently pursuing Google Cybersecurity Certificate, CompTIA Security+, and GRC Mastery.
+A lover of all things tech. Avid Chess player! Junior cybersecurity professional building hands-on experience across GRC (Governance Risk & Compliance), blue team operations, and cloud fundamentals. For fun, I am pursuing the Google Cybersecurity Certificate, CompTIA Security+, and GRC Mastery.
 
 ---
 
